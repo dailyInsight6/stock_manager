@@ -8,5 +8,5 @@ Python GUI programming
 - Python 3.6+, PyQt5, sqlite3, iexfinance
 
 ### [Screenshots]
-![First_Tab](https://github.com/dailyInsight6/make-a-story/blob/master/Python_GUI-Stock%20Manager/screenshots/main_first_tab.jpeg)
-![Second_Tab](https://github.com/dailyInsight6/make-a-story/blob/master/Python_GUI-Stock%20Manager/screenshots/main_second_tab.jpeg)
+![First_Tab](https://github.com/dailyInsight6/stock_manager/blob/master/screenshots/main_first_tab.jpeg)
+![Second_Tab](https://github.com/dailyInsight6/stock_manager/blob/master/screenshots/main_second_tab.jpeg)
